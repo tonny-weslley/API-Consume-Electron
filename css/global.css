@@ -1,0 +1,25 @@
+body{
+    background-color: #191824;
+    height: 100vh;
+    width: 100vw;
+}
+
+ul li{
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.botao{
+    background-color: #2b2e3a;
+    border: none;
+    padding: 10%;
+    border-radius: 5px;
+    cursor: pointer;
+}
